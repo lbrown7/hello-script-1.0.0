@@ -163,7 +163,7 @@ while 1:
     if i == 'there is a bug in the program!' or i == 'There is a bug in the program!' or i == 'there is a bug in the program' or i == 'There is a bug in the program':
         print('ok')
     #try to refer them to something different then yourself
-        print('plese e-mail Leo Brown for more information')
+        print('plese e-mail lbrown7 for more information')
     if i == 'This is awsome!!!':
         print('thank you!!!')
     if i == 'What???':
