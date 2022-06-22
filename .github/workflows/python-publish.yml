@@ -9,7 +9,7 @@
 name: Hello-script-1.0.0
 
 on:
-  release:
+  release: 1.0.0
     types: [published]
 
 permissions:
